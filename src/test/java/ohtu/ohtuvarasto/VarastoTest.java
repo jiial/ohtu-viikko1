@@ -68,7 +68,7 @@ public class VarastoTest {
     @Test
     public void toStringToimii() {
         String kissa = varasto.toString();
-        assertEquals("saldo = 0.0, vielä tilaa 10.0", kissa);
+        assertEquals("aldo = 0.0, vielä tilaa 10.0", kissa);
     }
 
     @Test
