@@ -1,0 +1,12 @@
+Ohjelmistotuontantoa ollut jossain muodossa jo 1950-luvulta lähtien. 70-luvulla syntyi tarve organisoiduille ohjelmistotuotantoprosesseille tehokkaampien tietokoneiden myötä. Menetelmät ovat kehittyneet lineaarisista prosesseista iteratiivisiin ja inkrementaalisiin malleihin.
+
+Peruskäsitteina software eli ohjelmisto, hardware eli laitteisto sekä software engineering eli ohjelmistotuontanto, johon kuuluvat kaikki ohjelmistotuotantoprosessin osa-alueet: Määrittely, suunnittelu, toteutus, testaus, dokumentointi, käyttöönotto ja ylläpito, laadunvarmistus, projektinhallinta ja tuotteenhallinta.
+
+Aluksi tietokoneet olivat hitaita ja ohjelmointi yksinkertaista. Kun tietokoneista tuli tehokkaampia, tuli ohjelmoinnista kasvavissa määrin suurempi ongelma, kun yritettiin hyödyntää tietokoneiden kapasiteettia monimutkaisilla ohjelmilla, joista tuli usein arvaamattoman kalliita ja huonolaatuisia.
+
+Perinteiset mallit suunnitteluvetoisia, ns. vesiputousmalli, jossa työvaiheet tehdään peräkkäin vasta edellisen valmistuttua. Vaikutteita haettu insinööritieteistä. Menetelmän ngelmana ohjelmistotuotannossa se, että virheet ilmenevät juuri toteutus-/testausvaiheissa, jolloin toteutus ei ole enää suoraviivaista. Joskus myös todelliset vaatimukset selviävät vasta kun ohjelmistoa käytetään sen oikeassa ympäristössä.
+
+Inkrementaalisia ja iteratiivisa menetelmiä pidetään vastauksena vesiputousmallin ongelmiin. Nämä perustuvat ohjelman vaiheittaiseen kehittämiseen, jossa kehitysvaiheita arvioidaan ja arvoiden pohjalta järjestelmää parannetaan. Esimerkkeinä spiraalimalli ja Rational Unified Process.
+
+2000-luvun keskeisin trendi on ketterät menetelmät, jotka syntyivät reaktiona perinteisille suunnittelupainoitteisille menetelmille. Periaatteena arvostaa yksilöitä, toimivaa arvokasta koodia, asiakasta ja muutokseen vastaamista. Scrum on eräs tunnetuin ketterä menetelmä. Etuna nopeus, ongelmana skaalaminen suurille projekteille.
+ 

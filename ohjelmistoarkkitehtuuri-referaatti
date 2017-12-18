@@ -1,0 +1,7 @@
+Ketterän ohjelmistokehityksen myötä ohjelmistoarkkitehtuuri on muuttunut - arkkitehtuuria ei voida etukäteen määritellä, vaan se muodostuu inkrementaalisesti kehitysjaksosta toiseen. Ketterä tapa antaa liian vähän neuvoja ja tilaa ohjelman rakenteen suunnittelulle ja toteutukselle.
+
+Ketterässä ohjelmistokehityksessä tapahtuva suunnittelu voidaan jakaa karkeasti kolmeen osaan: julkaisun suunnittelu, iteraation sunnittelu sekä kehitysjakson aikana tapahtuva suunnittelu.
+
+Ketterä- ja arkkitehtuurivetoinen ohjelmistokehitys muodostavat joidenkin mielestä ristiriidan. Ohjelmistoarkkitehtuuriyhteisö on kritisoinut ketteriä menetelmiä siitä, että suunnitteluvaiheen puuttuessa rajoitteet ja vaatimukset tulevat esille vasta kehityksen aikana. Projekti voi tällöin olla myös vaikea jakaa erillisille kehittäjäryhmille. Voi olla myös tarve turhalle muokkaamiselle ja uudelleen tekemiselle.
+
+Yksi ketterän periaate on mukautuvuus, jota hyödyntämällä voidaan ratkaista ristiriita/kritiikki. Ohjelmistoarkkitehtuurin työ voidaan siis sisällyttää eri keinoilla ketterään kehitysmalliin; Sprint 0, erillinen arkkitehtuuriryhmä, suunnittelupiikit, arkkitehtuurijaksot sekä arkkitehtuuritarinat. Näitä käytäntöjä voidaan myös yhdistellä.

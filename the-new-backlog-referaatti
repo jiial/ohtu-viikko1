@@ -1,0 +1,11 @@
+Tavallinen backlog ongelmallinen: listaa ohjelmiston osat tärkeysjärjestykseen ikään kuin projketin manageria varten. Tämä ei auta selittämään osakkaille/käyttäjille mitä järjestelmä oikeasti tekee. Kyseessä siis kontekstiton sekasotku ohjelman osasia, joka ei anna kokonaiskuvaa järjestelmän toiminnasta. Myös release planning on vaikeaa backlogeja käytettäessä, sillä userstoryjä on usein paljon.
+
+Ratkaisuna story map. Ylhäällä isot storyt eli activityt, joiden alla user taskit. Siis taulukko jossa pienet asiat isojen asioden alla ja aika liikkuu vasemmalta oikealle. Story map tulee rakentaa niin että se kertoo sinulle storynsä.
+
+Epic storyjen pilkkomisessa storyn kokonaiskuva heikentyy ja osista puuttuu konteksti. Epicit tulisi siis pitää sellaisenaan, ja niitä pitäisi mielellään kutsua jollain muulla nimellä.
+
+Mapin voi käydä käyttäjän kanssa läpi vasemmalta oikealle, jolloin käyttäjä saa hyvä kokonaiskuvat järjestelmästä. Se myös näyttää ohjelman rakenteen. Mappia on pidettävä kaikkien nähtävissä.
+
+Backbonea eli perustaa koodatessa voi sen eri osien priorisointi olla turhaa, jopa tyhmää. Voi olla, että kaikki osat ovat välttämättömiä minimum viable productin saavuttamiseksi, jolloin priorisoinnin mielekkyys häviää. Backbonea kannattaa vilkaista myös aina uusia featureja lisättäessä kontekstin vuoksi.
+
+
